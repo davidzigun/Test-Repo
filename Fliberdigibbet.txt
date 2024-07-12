@@ -3,3 +3,7 @@ Spongebob_Squarepants
 Squidward
 Sandy
 Mr_Crabs
+Additional characters include:
+Flea
+Fish
+Sponge
